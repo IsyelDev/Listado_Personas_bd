@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.container-background{
+    color: white;
+    margin-top: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.striped{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+.card{
+    color: #000;
+}
