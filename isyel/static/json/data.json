@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Pikachu",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+        "descripcion": "Pikachu es un Pokémon de tipo eléctrico."
+    },
+    {
+        "titulo": "Bulbasaur",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "descripcion": "Bulbasaur es un Pokémon de tipo planta/veneno."
+    },
+    {
+        "titulo": "Charmander",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "descripcion": "Charmander es un Pokémon de tipo fuego."
+    },
+    {
+        "titulo": "Squirtle",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+        "descripcion": "Squirtle es un Pokémon de tipo agua."
+    },
+    {
+        "titulo": "Eevee",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+        "descripcion": "Eevee Pokémon conocido por sus evoluciones."
+    },
+    {
+        "titulo": "Jigglypuff",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+        "descripcion": "Jigglypuff es un Pokémon de tipo normal/hada."
+    },
+    {
+        "titulo": "Meowth",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+        "descripcion": "Meowth es un Pokémon de tipo normal."
+    },
+    {
+        "titulo": "Snorlax",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+        "descripcion": "Snorlax famoso por dormir mucho."
+    },
+    {
+        "titulo": "Machop",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+        "descripcion": "Machop es un Pokémon de tipo lucha."
+    },
+    {
+        "titulo": "Pidgey",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+        "descripcion": "Pidgey es un Pokémon de tipo normal/volador."
+    }
+]
